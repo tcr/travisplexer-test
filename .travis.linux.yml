@@ -6,3 +6,4 @@ before_install:
   - echo before
 script:
   - echo during
+  - exit 0

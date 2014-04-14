@@ -1,10 +1,3 @@
-# ok
+# travisplexer test
 
-
-
-this is abranch
-
-git
-
-y
-a
+should fail on osx / windows, succeed on linux
