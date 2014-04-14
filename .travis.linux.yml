@@ -1,0 +1,8 @@
+description: Linux
+badge_token: QsFQ9CsYegvj7x78qiit
+
+language: javascript
+before_install:
+  - echo before
+script:
+  - echo during
