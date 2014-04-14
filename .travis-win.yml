@@ -1,1 +1,5 @@
-- ok
+language: objective-c
+before_install:
+  - echo before
+script:
+  - echo during
