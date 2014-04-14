@@ -1,5 +1,7 @@
-language: objective-c
 description: OS X
+badge_token: QsFQ9CsYegvj7x78qiit
+
+language: objective-c
 before_install:
   - echo before
 script:
