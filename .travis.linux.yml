@@ -1,0 +1,6 @@
+language: javascript
+description: Linux
+before_install:
+  - echo before
+script:
+  - echo during
