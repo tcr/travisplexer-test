@@ -1,4 +1,5 @@
 language: objective-c
+description: OS X
 before_install:
   - echo before
 script:
