@@ -1,5 +1,5 @@
-description: Windows
-badge_token: kiad383s271ov9tu
-
-build_script:
- - exit 0
+# branches to build
+branches:
+  # whitelist
+  only:
+    - master
