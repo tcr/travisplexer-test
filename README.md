@@ -1,6 +1,4 @@
 # travisplexer test
 
-should fail on osx / windows, succeed on linux
-
-# retry
+should pass on windows, osx, and linux.
 
