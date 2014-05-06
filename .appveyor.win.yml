@@ -2,4 +2,4 @@ description: Windows
 badge_token: kiad383s271ov9tu
 
 build_script:
- - exit 0
+ - exit 1
